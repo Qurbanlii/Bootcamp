@@ -6,5 +6,7 @@ public class main3 {
         fourOperation fourOperation = new fourOperation();
         System.out.println(fourOperation.addition(2, 3));
         fourOperation.addition2(2, 3, 5);
+        
     }
+
 }
